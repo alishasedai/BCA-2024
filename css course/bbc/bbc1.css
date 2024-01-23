@@ -1,0 +1,14 @@
+.alisha{
+    height: 100px;
+    width: 100%;
+    background: black;
+}
+.bbcphoto{
+    height: 80px;
+    width: 20%;
+    background: rgb(235, 18, 18);
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    margin-top: 10px;
+}
